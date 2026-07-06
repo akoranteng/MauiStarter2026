@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/MAUI_DEV2026.iml" filepath="$PROJECT_DIR$/.idea/MAUI_DEV2026.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MauiStarter/MauiStarter.iml" filepath="$PROJECT_DIR$/MauiStarter/MauiStarter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MauiStarter2026/MauiStarter2026.iml" filepath="$PROJECT_DIR$/MauiStarter2026/MauiStarter2026.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MauiTestApp/MauiTestApp.iml" filepath="$PROJECT_DIR$/MauiTestApp/MauiTestApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyFirstApp/MyFirstApp.iml" filepath="$PROJECT_DIR$/MyFirstApp/MyFirstApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestApp/TestApp.iml" filepath="$PROJECT_DIR$/TestApp/TestApp.iml" />
+    </modules>
+  </component>
+</project>

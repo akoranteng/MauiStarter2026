@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="jl50">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/MauiTestApp/Mauistarter_Demo/obj/Debug/net9.0-android/lp/110/jl/res.zip!/" />
+      <root url="jar://$PROJECT_DIR$/MauiTestApp/Mauistarter_Demo/obj/Debug/net9.0-android/lp/110/jl/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

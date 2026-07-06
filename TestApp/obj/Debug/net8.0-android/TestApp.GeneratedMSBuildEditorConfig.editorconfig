@@ -1,0 +1,83 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = true
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.TargetFramework = net8.0-android
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = TestApp
+build_property.ProjectDir = /Users/alexkoranteng/MAUI_DEV2026/TestApp/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+
+[/Users/alexkoranteng/MAUI_DEV2026/TestApp/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = TestApp.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[/Users/alexkoranteng/MAUI_DEV2026/TestApp/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = TestApp.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[/Users/alexkoranteng/MAUI_DEV2026/TestApp/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = TestApp.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[/Users/alexkoranteng/MAUI_DEV2026/TestApp/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = TestApp.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources/Styles/Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources/Styles/Colors.xaml
+
+[/Users/alexkoranteng/MAUI_DEV2026/TestApp/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = TestApp.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources/Styles/Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources/Styles/Styles.xaml
+
+[/Users/alexkoranteng/MAUI_DEV2026/TestApp/TestApp/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = TestApp.TestApp.App.xaml
+build_metadata.AdditionalFiles.TargetPath = TestApp/App.xaml
+build_metadata.AdditionalFiles.RelativePath = TestApp/App.xaml
+
+[/Users/alexkoranteng/MAUI_DEV2026/TestApp/TestApp/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = TestApp.TestApp.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = TestApp/AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = TestApp/AppShell.xaml
+
+[/Users/alexkoranteng/MAUI_DEV2026/TestApp/TestApp/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = TestApp.TestApp.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = TestApp/MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = TestApp/MainPage.xaml
+
+[/Users/alexkoranteng/MAUI_DEV2026/TestApp/TestApp/Platforms/Windows/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = TestApp.TestApp.Platforms.Windows.App.xaml
+build_metadata.AdditionalFiles.TargetPath = TestApp/Platforms/Windows/App.xaml
+build_metadata.AdditionalFiles.RelativePath = TestApp/Platforms/Windows/App.xaml
+
+[/Users/alexkoranteng/MAUI_DEV2026/TestApp/TestApp/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = TestApp.TestApp.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = TestApp/Resources/Styles/Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = TestApp/Resources/Styles/Colors.xaml
+
+[/Users/alexkoranteng/MAUI_DEV2026/TestApp/TestApp/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = TestApp.TestApp.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = TestApp/Resources/Styles/Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = TestApp/Resources/Styles/Styles.xaml

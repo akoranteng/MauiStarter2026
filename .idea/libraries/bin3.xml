@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="bin3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/MauiTestApp/obj/Debug/net9.0-android/android/bin/classes.zip!/" />
+      <root url="jar://$PROJECT_DIR$/MauiTestApp/obj/Debug/net9.0-android/android/bin/mono.android.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
