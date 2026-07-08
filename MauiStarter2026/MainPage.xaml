@@ -10,12 +10,12 @@
                              VerticalOptions="Center">
 
             <Label Text="Hello World from MAUI!"
-                   FontSize="32"
+                   FontSize="40"
                    HorizontalOptions="Center" />
 
             <Button Text="Click me"
                     Clicked="OnCounterClicked"
-                    FontSize="30"
+                    FontSize="40"
                     HorizontalOptions="Center" />
         </VerticalStackLayout>
     </Grid>
