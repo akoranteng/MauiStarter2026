@@ -12,10 +12,9 @@ The `main` branch contains:
 This branch is the baseline for all learning modules.
 
 ## 🌱 Feature Branches
-Additional branches will introduce progressive enhancements:
-
+git
 - `feature/welcome-screen-polished`  
-  Soft background, improved typography, modern button styling.
+  Soft background, improved typography, modern button styling..
 
 - `feature/welcome-screen-gradient`  
   Gradient background, premium look, white rounded button.
