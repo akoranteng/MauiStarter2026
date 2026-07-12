@@ -1,9 +1,11 @@
-﻿namespace MauiStarter2026;
+﻿
+namespace MauiStarter2026;
 
 public partial class AppShell : Shell
 {
-	public AppShell()
-	{
-		InitializeComponent();
-	}
+    public AppShell()
+    {
+        InitializeComponent();
+    }
 }
+
