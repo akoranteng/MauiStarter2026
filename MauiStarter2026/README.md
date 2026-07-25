@@ -1,40 +1,40 @@
-# MAUIStarter2026
+# Module 04 — Navigation With Parameters  
+This module introduces page-to-page navigation in .NET MAUI using parameters.  
+The goal is to pass data from one page (WelcomePage) to another (DetailsPage)  
+and display the received value.
 
-A clean, beginner-friendly .NET MAUI starter project designed for iOS development on macOS.  
-This repository serves as the foundation for a multi-branch MAUI learning path, with each branch introducing a new UI enhancement or development concept.
+---
 
-## 🚀 Main Branch
-The `main` branch contains:
-- A minimal MAUI app
-- A centered welcome screen
-- Clean layout suitable for iOS simulator testing
+## ✔ What This Module Covers
+- Creating two pages: `WelcomePage` and `DetailsPage`
+- Navigating using `Navigation.PushAsync`
+- Passing a string parameter to the destination page
+- Displaying the parameter on the DetailsPage
+- Updating `AppShell.xaml` to load the new WelcomePage
 
-This branch is the baseline for all learning modules.
+---
 
-## 🌱 Feature Branches
-git
-- `feature/welcome-screen-polished`  
-  Soft background, improved typography, modern button styling..
+## ✔ Files Added / Updated
+### **AppShell.xaml**
+Registers `WelcomePage` as the startup page.
 
-- `feature/welcome-screen-gradient`  
-  Gradient background, premium look, white rounded button.
+### **WelcomePage.xaml / WelcomePage.xaml.cs**
+Contains a button that navigates to `DetailsPage`  
+and passes a string parameter.
 
-- `feature/welcome-screen-premium`  
-  Logo, spacing, MAUI brand colors, professional onboarding feel.
+### **DetailsPage.xaml / DetailsPage.xaml.cs**
+Receives the parameter and displays it in a label.
 
-More branches will follow:
-- Navigation with Shell
-- MVVM structure
-- CollectionView lists
-- Syncfusion UI components
-- Onboarding flow
+---
 
-## 🛠 Requirements
-- .NET 8 SDK  
-- MAUI workloads installed  
-- Xcode + iOS Simulator  
-- macOS environment configured for MAUI iOS development
+## ✔ Navigation Flow
+1. User taps **Go to Details Page**  
+2. `WelcomePage` calls:
 
-## ▶️ Running the App
-From the project folder:
+```csharp
+await Navigation.PushAsync(new DetailsPage(message));
+dotnet build -t:Run -f net8.0-ios
 
+dotnet clean
+dotnet build -f net8.0-ios
+dotnet build -t:Run -f net8.0-ios
